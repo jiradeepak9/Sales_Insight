@@ -68,7 +68,9 @@ Build an executive-level dashboard to:
 
 📊**Screenshot and Demo**
 
+https://github.com/jiradeepak9/Sales_Insight/blob/main/Sales%20%26%20Revenue%20Insight.png
 
+https://github.com/jiradeepak9/Sales_Insight/blob/main/Revenue%20Insight.png
 
 🚀**Future Enhancements**
 - Fix missing Profit Margin KPI card
