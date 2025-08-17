@@ -1,4 +1,4 @@
-#**Sales & Revenue Insight Dashboard** - Real Time Analytical Business Intelligence and Market Performance Report
+**Sales & Revenue Insight Dashboard** - Real Time Analytical Business Intelligence and Market Performance Report
 
 This dashboard provides an in-depth analysis of sales performance, revenue distribution across various regions, customer segments, and product types. The dashboard empowers stakeholders to make data-driven decisions, improve sales strategy, and identify high-value customers or underperforming regions.
 
