@@ -1,8 +1,7 @@
-**Sales & Revenue Insight Dashboard** - Real Time Analytical Business Intelligence and Market Performance Report
-
+# **Sales & Revenue Insight Dashboard** 
 This dashboard provides an in-depth analysis of sales performance, revenue distribution across various regions, customer segments, and product types. The dashboard empowers stakeholders to make data-driven decisions, improve sales strategy, and identify high-value customers or underperforming regions.
 
-**The dashboard was built using the following tools and technologies**
+# **The dashboard was built using the following tools and technologies**
 
 - 📊 Power BI Desktop - Visual dashboard design, slicers, and interactivity.
 - 🧠 DAX (Data Analysis Expressions) - Custom KPIs and calculated measures.
@@ -10,7 +9,7 @@ This dashboard provides an in-depth analysis of sales performance, revenue distr
 - 📅 Excel - Input datasets for sales, customers, markets, and products
 - 📁 File Format – .pbix for development and .png for dashboard previews.
 
-📂 **Data Description**
+# 📂 **Data Description**
 
 - sales transactions: sales_amount, sales_qty, margin
 - sales date: full date hierarchy
@@ -21,7 +20,7 @@ This dashboard provides an in-depth analysis of sales performance, revenue distr
 - Profit Target: actual vs target comparison metrics  
 - Data Source: Code Basics Website
 
-🧠**Business Problem**
+# 🧠**Business Problem**
 
 - The company lacked a centralized system to:
 - Monitor real-time sales KPIs
@@ -29,7 +28,7 @@ This dashboard provides an in-depth analysis of sales performance, revenue distr
 - Evaluate profitability per customer/product
 - Track performance trends against previous years
 
-🎯**Goal of the Dashboard**
+# 🎯**Goal of the Dashboard**
 
 Build an executive-level dashboard to:
 
@@ -38,7 +37,7 @@ Build an executive-level dashboard to:
 - Benchmark performance against last year (LY) and set targets
 - Detect anomalies or seasonal sales behavior
 
-📊**Key Visuals that uses to enhance dashboard**
+# 📊**Key Visuals that uses to enhance dashboard**
 
 - Revenue KPI Card: Highlights total sales revenue
 - Sales Quantity KPI: Displays total quantity sold
@@ -50,7 +49,7 @@ Build an executive-level dashboard to:
 - Dynamic Slicers: Year & month selection for time-based analysis |
 
 
-🔍**Business Insights**
+# 🔍**Business Insights**
 
 - Top Region: Delhi NCR alone contributes 53% of total revenue
 - Top Customer: Electricalsara Stores generates ₹413M+ nearly 42% of total
@@ -60,19 +59,19 @@ Build an executive-level dashboard to:
 - Product Gaps: Significant number of transactions are linked to unnamed products (Prod040 = ₹314M)
 
 
-👔**Business Impact**
+# 👔**Business Impact**
 - Helped prioritize high-value markets and customers  
 - Identified areas with declining or stagnant sales  
 - Supported strategic planning with trend visibility  
 - Provided fast, real-time answers for executive queries
 
-📊**Screenshot and Demo**
+# 📊**Screenshot and Demo**
 
 ![Dashboard Overview](https://github.com/jiradeepak9/Sales_Insight/blob/main/Sales%20%26%20Revenue%20Insight.png)
 
 ![Dashboard Overview](https://github.com/jiradeepak9/Sales_Insight/blob/main/Revenue%20Insight.png)
 
-🚀**Future Enhancements**
+# 🚀**Future Enhancements**
 - Fix missing Profit Margin KPI card
 - Add drill-through pages for customer/product
 - Integrate real-time data pipeline
